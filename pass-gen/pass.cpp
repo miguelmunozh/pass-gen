@@ -47,6 +47,7 @@ int main(){
 
 /* text based interface*/
 void welcome(){
+    cout << "\n\n\n\n";
     cout << "\x1B[35m    oooooooooo     ooooooooo    oooooooooooo    oooooooooooo                  oooooooooooo     ooooooooooooo    oooooooooooooo  \033[0m\n";
     cout << "\x1B[35m   oooooooooooo   ooooooooooo  oooooooooooooo  oooooooooooooo                oooooooooooo     ooooooooooooooo  oooooooooooooooo \033[0m\n";
     cout << "\x1B[35m   ooooo   ooooo oooo    ooooo oooo      ooooo oooo      ooooo              oooo              ooooo      ooooo oooo0        oooo\033[0m\n";
