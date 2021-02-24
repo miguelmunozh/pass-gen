@@ -9,7 +9,7 @@ Download this application as zip folder and save it in your computer.
 
 ## Usage
 
-go to the folder called "pass-gen" in your terminal and run the command ```./pass```
+Go to the folder called "pass-gen" in your terminal and run the command ```./pass```
 
 
 ## Contributing
